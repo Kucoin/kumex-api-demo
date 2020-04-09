@@ -1,4 +1,4 @@
-module kumex-api-test
+module kumex-api-demo
 
 go 1.14
 
